@@ -36,8 +36,6 @@
 
 <!-- IDE -->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
-![NeoVim](https://img.shields.io/badge/-neovim-05122A?style=flat&logo=neovim)&nbsp;
 
 ## ⚙️ &nbsp; GitHub Analytics
 <div>
