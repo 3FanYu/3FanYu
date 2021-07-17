@@ -7,7 +7,7 @@
 <h3>👨🏻‍💻 &nbsp; About Me</h3>
 
 <h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> </h4>
-<h4 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I’m currently learning Golang & DDD</h4> 
+<h4 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I’m currently learning Golang </h4> 
 
 <!-- skill -->
 ## 🖥️  &nbsp; Languages and Tools:
@@ -51,7 +51,7 @@
 ## ✉️ &nbsp; Find me:
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/%E6%89%BF%E7%A5%90-%E9%99%B3-855837201/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/3fanyu/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <!--
