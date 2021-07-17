@@ -1,20 +1,71 @@
-<h1 align="center">Hi 👋, I'm 3FanYu!</h1>
-<h3 align="center">A passionate developer, loves to try out new things.</h3>
+<div align="center"><h1>Hi I'm 3Fan (3FanYu)<img src="https://emoji.slack-edge.com/T014NFWNW8J/hyper/02a58f18dc8f04f1.gif" width="30" />
+</h1></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3fanyu&label=Profile%20views&color=0e75b6&style=flat" alt="3fanyu" /> </p>
+<!-- 瀏覽次數 -->
+![](https://visitor-badge.laobi.icu/badge?page_id=3FanYu.3FanYu)
+<img alt="Night Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=240 height=200 align="right"/>
+<h3>👨🏻‍💻 &nbsp; About Me</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3fanyu" alt="3fanyu" /></a> </p>
+<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> </h4>
+<h4 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I’m currently learning Golang & DDD</h4> 
 
-- 🔭 I’m currently working on **go-hiking PWA app**
+<!-- skill -->
+## 🖥️  &nbsp; Languages and Tools:
+<!-- back -->
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 
-- 🌱 I’m currently learning **Golang, protobuf, and MongoDB**
+<!-- web -->
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-- 💬 Ask me about **react, flutter, python**
+<!-- DB -->
+![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDb)
+![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
 
-- 📫 How to reach me **eric93504@gmail.com**
+<!-- 部署 -->
+![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
+![heroku](https://img.shields.io/badge/-heroku-05122A?style=flat&logo=heroku)
+![Consul](https://img.shields.io/badge/-consul-05122A?style=flat&logo=consul)
 
-- ⚡ Fun fact **I'm a popping dancer in Taichung.**
+<!-- IDE -->
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
+![NeoVim](https://img.shields.io/badge/-neovim-05122A?style=flat&logo=neovim)&nbsp;
+
+## ⚙️ &nbsp; GitHub Analytics
+<div>
+  <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=3FanYu&theme=onedark" width="99%" alt="3FanYu"/></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3FanYu&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage" width="49.5%" alt="3FanYu"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=3FanYu&theme=ayu-mirage&hide_border=flase" width="49.5%" alt="3FanYu"/>                                                                                                                              
+</div>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- 聯絡我 -->
+## ✉️ &nbsp; Find me:
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/%E6%89%BF%E7%A5%90-%E9%99%B3-855837201/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<!--
+**3FanYu/3FanYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
