@@ -8,6 +8,7 @@
 
 <h4 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I’m currently learning Golang, JavaScript </h4> 
 <h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> My little side-project <a href="https:street-judge.club"> Street-Judge *Beta* </a> </h4>
+<h4> Check out the repo for more! <a href="https://github.com/3FanYu/Street-Judge-Backend"> Street-Judge-Backend </a>  <a href="https://github.com/3FanYu/Street-Judge-Frontend"> Street-Judge-Frontend </a> </h4>  
 
 <!-- skill -->
 ## 🖥️  &nbsp; Languages and Tools:
