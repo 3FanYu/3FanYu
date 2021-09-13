@@ -6,8 +6,8 @@
 <img alt="Night Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=240 height=200 align="right"/>
 <h3>👨🏻‍💻 &nbsp; About Me</h3>
 
-<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> </h4>
 <h4 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I’m currently learning Golang, JavaScript </h4> 
+<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> My little side-project <a href="https:street-judge.club"> Street-Judge *Beta* </a> </h4>
 
 <!-- skill -->
 ## 🖥️  &nbsp; Languages and Tools:
